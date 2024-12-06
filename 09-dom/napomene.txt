@@ -1,7 +1,0 @@
-Metoda - funkcija koja se nalazi u objektu
-DOM - objekat koji sadrži čitavu stranicu
-svaki html element je javascript objekt
-body je isto objekat sa svojstima i metodama
-DOM daje javascriptu punu kontrolu na stranici
-
-

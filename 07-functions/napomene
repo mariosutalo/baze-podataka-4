@@ -1,8 +1,0 @@
-funkcije se koriste da ne ponavljamo isti kod
-sintaksa za kreiranje funkcije
-nazivi funckija se ne smiju ponavljati
-pravila za naziv funkcije - sto se ne smije, preporuka camelCase
-Sto je naziv, sto tijelo funkcije
-stvaranje funkcije nije isto kao i njeno pozivanje
-pozivanje, pokretanje funkcije - ista stvar
-parametri funkcije - ista pravila kao za nazive funkcije, može biti više parametara, mogu imati default vrijednost, undefined parameter

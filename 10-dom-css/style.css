@@ -1,9 +1,0 @@
-.int-div {
-    width: 300px;
-    height: 300px;
-    background-color: rgba(255, 0, 0, 0.472);
-}
-
-.int-div-clicked {
-    background-color: rgba(255, 255, 0, 0.687);
-}
