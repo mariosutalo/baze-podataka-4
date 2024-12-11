@@ -1,3 +1,4 @@
+-- create database  mydb
 use webshop
 
 create table categories (
