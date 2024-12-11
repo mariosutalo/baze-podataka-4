@@ -1,5 +1,5 @@
--- create database  webshop
-use webshop
+-- create database  webshop;
+use webshop;
 
 create table categories (
 id int primary key auto_increment,
