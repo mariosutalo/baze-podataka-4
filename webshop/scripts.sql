@@ -95,9 +95,6 @@ M-ATX Form Factor
 23.6 cm x 20 cm"
 WHERE id = 4;
 
-select count(*) as count from products;
-
-
 insert into products (name, price, stock, category_id, image_url, likes, specs, warranty, description)
 values 	("Asus ROG i5 12400f", 1300, 12, 1, "slika1.jpg", 3, "Podnožje: Intel LGA1700;Vrsta memorije: DDR4", 24, "PROCESSOR
 Support Intel Core 14th/ 13th/ 12th Gen Processors, Intel Pentium Gold and Celeron Processors
