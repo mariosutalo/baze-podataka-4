@@ -19,7 +19,13 @@ on products.id = product_images.product_id;
 select *
 from products left join product_images
 on products.id = product_images.product_id
-where products.id = 4; 
+where products.id = 4;
+
+-- selects only some field from both tables
+SELECT p.id AS product_id, p.name, p.description, p.price, pi.image_url
+FROM products p
+LEFT JOIN product_images pi ON p.id = pi.product_id
+WHERE p.id = 1;
 
 
 
