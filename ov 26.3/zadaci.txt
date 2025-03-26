@@ -1,0 +1,5 @@
+Zadatak 1. Prikazati sve proizvode kojima je cijena veća od 400.
+
+Zadatak 2. Prikazati naziv, cijenu i zalihu proizvoda onih proizvoda kojima ime počinje sa "Asus"
+
+Zadatak 2. Prikazati proizvod sa njegovim slikama kojemu je id = 1. (Koristiti left join)
