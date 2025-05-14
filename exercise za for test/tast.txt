@@ -1,0 +1,9 @@
+Napraviti novu bazu employees_register
+
+Napraviti tablice:
+a: department, sa poljima:id, name
+b: employee sa poljima: firstName, lastName, salary, department_id
+
+
+Unijeti Odjele: Marketing, Production, Sales
+Unijeti 5 zaposlenika te ih rasporediti po odjelima
