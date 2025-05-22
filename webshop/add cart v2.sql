@@ -1,7 +1,7 @@
 use webshop;
 
-DROP TABLE IF EXISTS cart;
 DROP TABLE if EXISTS cart_items;
+DROP TABLE IF EXISTS cart;
 DROP table if exists sessions;
 
 create table sessions (
