@@ -1,0 +1,6 @@
+Zadatak1. Napraviti upit koji će prebrojati sve zaposlenike
+kojima je plaća veća od 1000 eura, spremiti ga u mapu
+employees register db
+
+Zadatak2. Prikazati ime i plaću zaposlenika
+kojima je naziv odjela u kojem rade Marketing
