@@ -12,8 +12,8 @@ created_modified_date date
 
 create table cart_items (
 id int primary key auto_increment,
-product_id int,
 quantity decimal(9,2),
+product_id int,
 session_guid varchar(100),
 foreign key(product_id) references products(id),
 foreign key(session_guid) references sessions(guid)
